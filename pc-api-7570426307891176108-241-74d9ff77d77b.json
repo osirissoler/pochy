@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-7570426307891176108-241",
+  "private_key_id": "74d9ff77d77b675a4011642189b97e4c75958454",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCxtxCA/MwbwUjX\nmx4pFZ2zLuN1daJs5PyvZsNVmyqA5mj8qPj9N8kU2sqF6YeqMzVgNZQWDoRIjqB6\njBQcO4FMiZspMQ/RJZqhyIREakjn+ubdJhIKrX2/7z1TAK2XtnuUpxy8ZAg1ux6R\nOXj/QiUFb/RdbN81+q1q5yRwN/uHYb0ETc7+uh8dXCILaM3ui8X+axRMR1MUmgRq\nkiTLJ2MmGgX/zaZpu8jioalWVUvMtYWX8Sq++rr1iRfQv3k30iTTwNAv0RyTwZxF\nD2MDeH3MFLOOXWtIcsEVaI19NA9efgQeoqKoWqbCqQDDzBsKQg8DufgUIsuXzmIO\nqZpi/Ub5AgMBAAECggEAJ6SyMkvyTii2Up5gQoL3bF7Dz9J/erI0Kf6PCXw1JY8A\nkYgyDu6QVS4fanL3WADXYdBh6e+wE615YAz6eXfOtp+ltLEkmZ+9WGSuGMLq45Dl\nSiTxdl9QQ24fbHIkx0imVblXoDDiYfYNchDzjGGZd5aLWQHt4xE5+TR5vOzIF+FW\njknnrM+xpd1k12IZhgAw+WglxOQuAyJz9HWxMltjdb5XyBWnfvbcFG50VDPGXWuj\nxBD4hTEXwYsPqvGoeWohM0LXt5aToj052hCqoeFE3vrtrOBmPnBDDabLBWyrLPmF\niM0pCTv9pEhwgKtl4Q0ldfyEF+jZKrTZBPkdVjx5nwKBgQDr/JuFhBfgFugXyW8+\ngEHmPqArRZA1QXk44RKfjBAx4zblYItMrx/qyA+6xaFSS3NzUUB+NKpV5Ke0AzWH\n6c35AuHokM7E+f5ee3ZM1rCHEAJJOWT8/ZfKsdTnbwvK3CR3rF5/TwkYRpY3SBpd\nRt+31E3z4zEgToJCASN2qdmHwwKBgQDAyVmGbjiK6FD9DLdzHS7qnyi0P3FPp7Xm\nAZx9Te33YHdtLA5t7Pa/iJKZ/CySG88QyLr6RKUl9FUJYHDDbwx4I45mI2dSzBCn\nv9XaxvvD6e15NfdVlCNeuF31E/ezEfqqdotOGEGq6uF0Nk8r+jpLA0uDy0tktTUw\n1xJVtedGkwKBgHiBRAGIFJEP4XDUIgRuhjhG3o96NEudpYNQG6xxX4u6FTxIcpm0\nC75ebvnXFavqb4gBg8duqVS3MJQR13ISCGYR/L4/w/Z+GlCxBxXxw68Uk7ZEorc1\n4B9Xc/rCj+kFRXH/CTpFZ8WHtgmAvkXHfVJoDW5vI5T1wjpmTm+4CCb1An82+TOO\nId/9vEFb50RojunR/ZCd1Xl6PVihPdRh5tb0s41alDWJIwk5lLg5MK+E+mkRYCvx\nMaHmMMYO5nFBSWlE2N7CQVY1Rft52johKJyiQRJ2fe0JejSbzfb867S2W2ofMa6H\nlmMjWdbwTIxG/hOhUE84RcA593IzeyC/UB+jAoGAKR8b6t+bMl8wLD3gk7uvlAq8\nJgh86Yc1FSTM/WGVQP4Ez2zaqNfckWn8Yn69jyaXnK2PWiDMC0FAw3M9ttAt/prP\nltXuMG0qI1Tjmj4zpYyrge/tBX3M5ndlBDUMLkAxzrvrz6XKL+nVhnH9DFGNCc/V\ns5IyiDsG7ZspwQqwSMQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coopharma@pc-api-7570426307891176108-241.iam.gserviceaccount.com",
+  "client_id": "114229055787115419015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coopharma%40pc-api-7570426307891176108-241.iam.gserviceaccount.com"
+}

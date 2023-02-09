@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "joyas-puchy",
+    "slug": "joyas-puchy",
+    "version": "0.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon_coopharma.jpg",
+    "scheme": "joyas-puchy",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joyaspuchy.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "The app accesses your photos to let you change your profile image.",
+        "NSCameraUsageDescription": "The app uses your camera to let you take a picture and set it as your profile image.",
+        "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to access your microphone"
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon_coopharma.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.joyaspuchy.app",
+      "versionCode": 1,
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you change your profile image.",
+          "cameraPermission": "The app uses your camera to let you take a picture and set it as your profile image."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e306ef3a-abf3-4515-bb7d-edb1e8967b5e"
+      }
+    }
+  }
+}
